@@ -4,8 +4,8 @@
 ### Клонирование и установка зависимостей
 
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone git@github.com:Batisska/product-test.git
+cd product-test
 ```
 
 Можно выполнить полную настройку одной командой:
